@@ -7,6 +7,11 @@ class Calculator
 	
 	static int Penambahan(inta, int b)
 	{
-		return a + b
+		return a + b;
+	}
+	
+		static int pengurangan(inta, int b)
+	{
+		return a - b;
 	}
 }
